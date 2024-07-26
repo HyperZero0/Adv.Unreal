@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/krergunchai/Documents/Unreal Projects/Week5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/krergunchai/Documents/Unreal Projects/Week5/Content/Level/Level_1.umap",
+				"C:/Users/krergunchai/Documents/Unreal Projects/Week5/Content/Blueprint/Door_BP.uasset",
+				"C:/Users/krergunchai/Documents/Unreal Projects/Week5/Content/Megascans/3D_Assets/Old_Wooden_Door_wbmgdcpdw/MyDoor.uasset",
+				"C:/Users/krergunchai/Documents/Unreal Projects/Week5/Content/Megascans/3D_Assets/Old_Wooden_Door_wbmgdcpdw/MI_Old_Wooden_Door_wbmgdcpdw_2K.uasset",
+				"C:/Users/krergunchai/Documents/Unreal Projects/Week5/Content/Blueprint/T1Door_BP.uasset",
+				"C:/Users/krergunchai/Documents/Unreal Projects/Week5/Content/Megascans/3D_Assets/Axe_ubglcesiw/S_Axe_ubglcesiw_lod3.uasset",
+				"C:/Users/krergunchai/Documents/Unreal Projects/Week5/Content/Blueprint/T2Key_BP.uasset",
+				"C:/Users/krergunchai/Documents/Unreal Projects/Week5/Content/Blueprint/T2Door_BP.uasset",
+				"C:/Users/krergunchai/Documents/Unreal Projects/Week5/Content/Blueprint/T3Key_BP.uasset",
+				"C:/Users/krergunchai/Documents/Unreal Projects/Week5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/krergunchai/Documents/Unreal Projects/Week5/Content/Blueprint/T3Door_BP.uasset"
+			]
+		}
+	]
+}
